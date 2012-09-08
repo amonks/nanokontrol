@@ -1,6 +1,8 @@
 nanokontrol
 ===========
 
+![screenshot](http://cl.ly/JIPF/Screen%20Shot%202012-09-08%20at%205.21.14%20AM.png)
+
 easy-mapped nanokontrol for max/msp
 
 ## Sends to:
