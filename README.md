@@ -1,28 +1,6 @@
 nanokontrol
 ===========
 
-![screenshot](http://cl.ly/JIPF/Screen%20Shot%202012-09-08%20at%205.21.14%20AM.png)
+![screenshot](http://cl.ly/LDy0/Screen%20Shot%202012-11-28%20at%207.40.56%20PM.png)
 
-easy-mapped nanokontrol for max/msp
-
-## Sends to:
-
-*	Rewind
-
-*	Play
-
-*	Forward
-
-*	Loop
-
-*	Stop
-
-*	Record
-
-*	Rotary1 - Rotary9
-
-*	Fader1 - Fader9
-
-*	TopButton1 - TopButton9
-
-*	BottomButton1 - BottomButton9
+nanokontrol v1 patch for max/msp
